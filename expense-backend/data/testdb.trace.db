@@ -1,0 +1,9 @@
+2026-05-03 01:28:45.170393+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]USERS SELECT * FROM USERS"; expected "UPDATE"; SQL statement:
+USERS SELECT * FROM USERS [42001-224]
+2026-05-20 15:23:16.517157+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]EXPENSE"; expected "EXPLAIN, EXECUTE"; SQL statement:
+EXPENSE [42001-224]
+2026-05-20 15:23:20.087010+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]EXPENSE USERS"; expected "EXPLAIN, EXECUTE"; SQL statement:
+EXPENSE USERS [42001-224]
