@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# React
+expense-frontend/node_modules/
+
+# Spring Boot
+expense-backend/target/
+
+# Environment
+.env
